@@ -125,4 +125,47 @@
 [2015.12.28-01.27.05:078][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/GitHub/podracer/Content/Developers/User/Collections/' took 0.00s
 [2015.12.28-01.27.05:078][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/GitHub/podracer/Content/Collections/' took 0.01s
 [2015.12.28-01.27.05:078][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000008 seconds
-[2015.12.28-01.27.05:092][  0]LogContentBrowser: Native class hierarchy populated in 0.0140 seconds. Add
+[2015.12.28-01.27.05:092][  0]LogContentBrowser: Native class hierarchy populated in 0.0140 seconds. Added 1893 classes and 338 folders.
+[2015.12.28-01.27.05:116][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2015.12.28-01.27.06:276][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2015.12.28-01.27.06:422][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2015.12.28-01.27.06:541][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2015.12.28-01.27.06:545][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2015.12.28-01.27.06:565][  0]LogLoad: Full Startup: 54.46 seconds (BP compile: 0.26 seconds)
+[2015.12.28-01.27.06:907][  0]LogOcInput: Can't find Oculus library dev build: is proper Runtime installed? Version: 0.8.0.0
+[2015.12.28-01.27.06:955][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2015.12.28-01.27.07:209][  0]LogRenderer: Reallocating scene render targets to support 1208x652 (Frame:2).
+[2015.12.28-01.27.09:787][  8]LogAssetRegistry: Asset discovery search completed in 28.1136 seconds
+[2015.12.28-01.27.09:787][  8]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2015.12.28-01.27.09:787][  8]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000031 seconds (updated 0 objects)
+[2015.12.28-01.27.13:460][ 20]LogWindows:Warning: FWindowsPlatformSurvey::TickSurveyHardware() failed to parse available memory from dxdiag report
+[2015.12.28-01.27.13:468][ 20]LogSynthBenchmark:Display: FSynthBenchmark (V0.95):  requested WorkScale=1.00
+[2015.12.28-01.27.13:468][ 20]LogSynthBenchmark:Display: ===============
+[2015.12.28-01.27.13:468][ 20]LogSynthBenchmark:Display: Main Processor:
+[2015.12.28-01.27.13:541][ 20]LogSynthBenchmark:Display:          ... 0.046944 s/Run 'RayIntersect'
+[2015.12.28-01.27.13:541][ 20]LogSynthBenchmark:Display:          ... 0.026702 s/Run 'Fractal'
+[2015.12.28-01.27.13:541][ 20]LogSynthBenchmark:Display: 
+[2015.12.28-01.27.13:541][ 20]LogSynthBenchmark:Display:   CompiledTarget_x_Bits: 64
+[2015.12.28-01.27.13:541][ 20]LogSynthBenchmark:Display:   UE_BUILD_SHIPPING: 0
+[2015.12.28-01.27.13:541][ 20]LogSynthBenchmark:Display:   UE_BUILD_TEST: 0
+[2015.12.28-01.27.13:541][ 20]LogSynthBenchmark:Display:   UE_BUILD_DEBUG: 0
+[2015.12.28-01.27.13:541][ 20]LogSynthBenchmark:Display:   TotalPhysicalGBRam: 8
+[2015.12.28-01.27.13:541][ 20]LogSynthBenchmark:Display:   NumberOfCores (physical): 4
+[2015.12.28-01.27.13:542][ 20]LogSynthBenchmark:Display:   NumberOfCores (logical): 8
+[2015.12.28-01.27.13:542][ 20]LogSynthBenchmark:Display:   CPU Perf Index 0: 54.6
+[2015.12.28-01.27.13:542][ 20]LogSynthBenchmark:Display:   CPU Perf Index 1: 107.1
+[2015.12.28-01.27.13:542][ 20]LogSynthBenchmark:Display:  
+[2015.12.28-01.27.13:542][ 20]LogSynthBenchmark:Display: Graphics:
+[2015.12.28-01.27.13:542][ 20]LogSynthBenchmark:Display:   Adapter Name: 'NVIDIA GeForce GTX 480'
+[2015.12.28-01.27.13:542][ 20]LogSynthBenchmark:Display:   (On Optimus the name might be wrong, memory should be ok)
+[2015.12.28-01.27.13:542][ 20]LogSynthBenchmark:Display:   Vendor Id: 0x10de
+[2015.12.28-01.27.13:542][ 20]LogSynthBenchmark:Display:   GPU Memory: 1489/0/2560 MB
+[2015.12.28-01.27.13:542][ 20]LogSynthBenchmark:Display:   CPUIndex: 54.6
+[2015.12.28-01.27.13:542][ 20]LogSynthBenchmark:Display:   GPUIndex: -nan(ind)
+[2015.12.28-01.27.13:542][ 20]LogSynthBenchmark:Display: 
+[2015.12.28-01.27.13:542][ 20]LogSynthBenchmark:Display:          ... Total Time: 0.074058 sec
+[2015.12.28-01.47.29:422][963]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground)
+[2015.12.28-01.47.36:505][ 18]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Ground)
+[2015.12.28-01.47.37:636][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground)
+[2015.12.28-01.47.59:005][ 69]LogActorFactory: Actor Factory created Sphere
+[2015.12.28-01.47.59:696][ 93]Lo
